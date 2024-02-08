@@ -50,13 +50,6 @@
   "files": [
     "src"
   ],
-  "cpu": [
-    "ia32",
-    "x64"
-  ],
-  "os": [
-    "win32"
-  ],
   "dependencies": {
     "async-lock": "1.4.1",
     "bas-remote-node": "1.5.1",
